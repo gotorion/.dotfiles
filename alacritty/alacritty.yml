@@ -1,0 +1,14 @@
+window:
+  # decorations: "none"
+  opacity: 0.9
+  dimensions:
+    columns: 90
+    lines: 30
+colors:
+  primary:
+    background: "#1e2127"
+    foreground: "#D8DEE9"
+font:
+  size: 15.0
+shell:
+  program: ssh john@192.168.206.129
